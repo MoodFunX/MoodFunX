@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoodFunX
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Pyton and C#
+- 👀 I’m interested in BackEnd
+- 🌱 I’m currently learning Pyton and C++
 - 💞️ I’m looking to collaborate on somthing 
 - 📫 MoodFun2@gmail.com
 
